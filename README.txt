@@ -1,8 +1,6 @@
 ----------------------------
 MAPPER, REDUCER AND COMBINER
 ----------------------------
-Author: Aswin Pranav Sankar, UFID 19119174, apsankar@ufl.edu
-
 Usage: 
 
 a)make
